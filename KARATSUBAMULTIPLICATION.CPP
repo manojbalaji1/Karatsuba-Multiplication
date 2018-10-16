@@ -1,5 +1,5 @@
-# Karatsuba-Multiplication
-pheew after so much of effort.Please find cases where the program fall short
+//Karatsuba-Multiplication
+//pheew after so much of effort.Please find cases where the program fall short
 #include<iostream>
 #include<cmath>
 #include<cstring>
